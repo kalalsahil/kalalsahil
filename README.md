@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final year B.Tech in **Artificial Intelligence and Data Science** from VIT, Pune (CGPA: 8.99)
+- 🎓 Graduated B.Tech in **Artificial Intelligence and Data Science** from VIT, Pune (CGPA: 9.03)
 - 💼 Former **Business Intelligence Analyst Intern** at **TE Connectivity**, where I:
   - Built a RAG-based chatbot for document querying.
   - Created a finance document summarizer UI with Streamlit.
